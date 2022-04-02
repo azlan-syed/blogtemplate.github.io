@@ -112,6 +112,8 @@ a {
     align-items: center;
     padding: 1rem 1.5rem;
     background-color: #034f91;
+    height: 86px;
+    
 }
 
 .hamburger {
